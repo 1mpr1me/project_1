@@ -7,4 +7,4 @@ while true:
 	else:
 		print(a)
 		a+=1
-		t.sleep(0.1)
+		time.sleep(0.1)
